@@ -2,8 +2,8 @@
 
 # Ani-hub
 As I personally have a laptop so i always needed a usb-hub so here it comess :yayy:
-![](/images/3df.png)
-![](/images/3db.png)
+![](/images/easyeda_f.png)
+![](/images/eqasyeda_b.png)
 
 
 # Sch & PCB
