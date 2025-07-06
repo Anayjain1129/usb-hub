@@ -31,8 +31,8 @@ The most fun part and the part which I love so yea here it goes and it was inten
 ![](/images/final_bottom.png)
 
 # Whole
-![](/images/final.png)
-![](/images/final1.png)
+![](/images/side.png)
+![](/images/full.png)
 
 # BOM
 |Part Name|Quantity|Cost|Link|
