@@ -13,13 +13,13 @@ I loved the PCB part but the sch was not very fun part :sed: I read so many docu
 ![](/images/final_sch.png)
 
 # PCB
-![](/images/final_pcb.png)
+![](/images/easyeda.png)
 
 # Front
-![](/images/3df.png)
+![](/images/easyeda_f.png)
 
 # Back
-![](/images/3db.png)
+![](/images/easyeda_b.png)
 
 # CAD
 The most fun part and the part which I love so yea here it goes and it was intentional to not make holes for screws cause Im gonna glue it with a gule that my father bought.
@@ -48,6 +48,8 @@ The most fun part and the part which I love so yea here it goes and it was inten
 ## Total Pricing
 
 The cost of all the parts comes out to be $11.19, but there are gonna be cost of shipping so the Total Cost is $40
+
+I have not included screws cause I already Have them at my house.
 
 Cost of just parts comes to be around 11.19$
 All together The total Cost is 40$
