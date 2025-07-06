@@ -42,6 +42,7 @@ The most fun part and the part which I love so yea here it goes and it was inten
 |SOP-16_L10.0-W3.9-P1.27-LS6.0-BL|1|**$0.26**|https://jlcpcb.com/partdetail/CoreChips-SL21A/C192893|
 |C98125|5|**$ 0.36**|https://lcsc.com/product-detail/USB-Connectors_Korean-Hroparts-Elec-U-G-O4DD-W-1_C2910540.html?s_z=n_U-G-O4DD-W-1|
 |C46407|4|**$0.15**|https://jlcpcb.com/partdetail/47411-903131A1011D10100/C46407|
+|M4 X 10mm|Already have them|https://www.amazon.in/Rpi-shop-Phillip-Phillips-Quantity/dp/B08FG7K6DT/ref=sr_1_5?s=industrial&sr=1-5|
 |Custom PCB|5|$10.32|https://hc-cdn.hel1.your-objectstorage.com/s/v3/d6efdb74ae8e7d52015c414ee3252464e3e7232b_image.png|
 |Case|1|Print legion
 
