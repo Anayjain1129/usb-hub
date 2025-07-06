@@ -25,10 +25,10 @@ I loved the PCB part but the sch was not very fun part :sed: I read so many docu
 The most fun part and the part which I love so yea here it goes and it was intentional to not make holes for screws cause Im gonna glue it with a gule that my father bought.
 
 # Front
-![](/images/final_top.png)
+![](/images/t.png)
 
 # Bottom
-![](/images/final_bottom.png)
+![](/images/b.png)
 
 # Whole
 ![](/images/side.png)
